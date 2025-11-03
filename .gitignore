@@ -1,0 +1,10 @@
+# ignorar pasta inteira na raiz do repo
+/homer_bart_1/
+/__MACOSX/
+
+# Ignorar arquivos zip do projeto
+# Ignora qualquer arquivo .zip (ajuste se quiser um nome específico)
+*.zip
+*.json
+*.hdf5
+*.csv
